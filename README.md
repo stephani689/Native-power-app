@@ -18,4 +18,4 @@ Aplikasi check-in sederhana berbasis **React Native (Expo)** untuk tugas Pemrogr
 ![lokasi](./assets/Lokasi.jpeg)
 
 ## Link Snack 
-[Link anack](https://snack.expo.dev/@stephanizz/native-power-app)
+[Link Snack](https://snack.expo.dev/@stephanizz/native-power-app)
