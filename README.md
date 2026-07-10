@@ -10,11 +10,11 @@ Aplikasi check-in sederhana berbasis **React Native (Expo)** untuk tugas Pemrogr
 * ❌ **Reset:** Tombol untuk menghapus foto dan lokasi kembali ke awal.
 
 ## 📸 Dokumentasi
-##Tampilan awal
+## Tampilan awal
 ![tampilan awal](./assets/Tampilan_awal.jpeg)
-##Input gambar
+## Input gambar
 ![input gambar](./assets/Input_gambar.jpeg)
-##Letak lokasi di google maps
+## Letak lokasi di google maps
 ![lokasi](./assets/Lokasi.jpeg)
 
 ## Link Snack 
